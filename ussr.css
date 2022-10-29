@@ -1,0 +1,8 @@
+body {background: linear-gradient(#430000,#190a05);
+color:#ffffff;
+font-family:emoji;}
+img {border-radius:50px; transition: 0.3s;}
+img:hover{border-radius: 99px;}
+h1{background: #000000}
+a {background: #ffff00; text-decoration: none; padding: 10px 25px;transition: 0.3s; border-radius: 10px}
+a:hover{background: #f0f0f0; color:#000000;}
